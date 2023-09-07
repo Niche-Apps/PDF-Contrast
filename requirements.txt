@@ -1,0 +1,6 @@
+tkinter
+Pillow
+pdf2image
+img2pdf
+multiprocessing
+shutil
